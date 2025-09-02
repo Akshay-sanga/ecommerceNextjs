@@ -1,9 +1,15 @@
 import React from 'react'
 
-const StorePage = () => {
+export const StorePage = () => {
   return (
-    <div>StorePage</div>
+    <div>Store Page</div>
   )
 }
 
-export default StorePage
+const CategoryListing =()=>{
+
+}
+
+const ProductListing =()=>{
+  
+}
